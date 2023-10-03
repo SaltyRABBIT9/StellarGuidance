@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\bin\Debug\StellarGuidance.exe.config
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\bin\Debug\StellarGuidance.exe
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\bin\Debug\StellarGuidance.pdb
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.Form1.resources
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.Properties.Resources.resources
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.csproj.GenerateResource.cache
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.exe
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.pdb
+C:\Users\User\source\repos\StellarGuidance\StellarGuidance\obj\Debug\StellarGuidance.Form2.resources
